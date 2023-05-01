@@ -1,0 +1,45 @@
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\bin\x64\Debug\App.xbf
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\bin\x64\Debug\MainPage.xbf
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\bin\x64\Debug\DogeGame 3.0.xr.xml
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\bin\x64\Debug\DogeGame 3.0.exe
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\bin\x64\Debug\DogeGame 3.0.pdb
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\bin\x64\Debug\resources.pri
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\bin\x64\Debug\AppxManifest.xml
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\bin\x64\Debug\Core\DogeGame 3.0.exe
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\bin\x64\Debug\New DogeGame 3.0.build.appxrecipe
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\bin\x64\Debug\System.Runtime.dll
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\New DogeGame 3.0.csproj.AssemblyReference.cache
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\App.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\App.g.cs
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\MainPage.g.cs
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\App.xaml
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\MainPage.xaml
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\App.xbf
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\MainPage.xbf
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\New DogeGame 3.0.csproj.CoreCompileInputs.cache
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\New DogeGame 3.0.csproj.CopyComplete
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\DogeGame 3.0.exe
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\DogeGame 3.0.pdb
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\priconfig.xml
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\resources.resfiles
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\pri.resfiles
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\qualifiers.txt
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\idop9\OneDrive\Desktop\DogeGame 3.0 22\DogeGame 3.0\DogeGame 3.0\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934950560000000.json

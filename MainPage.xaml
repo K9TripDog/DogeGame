@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="DogeGame_3._0.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DogeGame_3._0"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FF2B2B2B">
+        <TextBlock x:Name="TryText" Height="207" Canvas.Left="498" TextWrapping="Wrap" Text="You Win" Canvas.Top="174" Width="501"/>
+        <Canvas x:Name="GameBoard" HorizontalAlignment="Center" VerticalAlignment="Top" Width="1503" Height="950" AutomationProperties.AccessibilityView="Control" Margin="0,50,0,0">
+            <Canvas.Background>
+                <ImageBrush ImageSource="/Photos/stars-galaxy.gif" Stretch="UniformToFill"/>
+            </Canvas.Background>
+        </Canvas>
+        <Image HorizontalAlignment="Left" Height="77" Margin="111,586,0,0" VerticalAlignment="Top" Width="71"/>
+        <CommandBar x:Name="AllComandBar" ClosedDisplayMode="Compact">
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:Name="SaveBar"  Background="{x:Null}" Icon="Save" Label="Save" Click="SaveBar_Click"/>
+                <AppBarButton x:Name="LoadBar" Background="{x:Null}" Content="Load" Icon="Previous" Label="Load Game" Click="LoadBar_Click"/>
+                <AppBarButton x:Name="ExitBar" Background="{x:Null}" Icon="Cancel" Label="Exit" Click="ExitBar_Click"/>
+            </CommandBar.SecondaryCommands>
+            <CommandBar.Content>
+                <Grid/>
+            </CommandBar.Content>
+            <AppBarButton x:Name="StartBar" Icon="Play" Label="StartGame" Click="StartBar_Click"/>
+            <AppBarButton x:Name="StopBard" Icon="Pause" Label="Pause" Content="Pause Game" Click="StopBar_Click"/>
+            <AppBarButton x:Name="ResumeBar" Icon="Next" Label="Resume" HorizontalAlignment="Center" Click="ResumeBar_Click"/>
+        </CommandBar>
+
+    </Grid>
+</Page>

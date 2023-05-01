@@ -1,0 +1,45 @@
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\bin\x86\Debug\App.xbf
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\bin\x86\Debug\MainPage.xbf
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\bin\x86\Debug\DogeGame 3.0.xr.xml
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\bin\x86\Debug\DogeGame 3.0.exe
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\bin\x86\Debug\DogeGame 3.0.pdb
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\bin\x86\Debug\resources.pri
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\bin\x86\Debug\AppxManifest.xml
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\bin\x86\Debug\Core\DogeGame 3.0.exe
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\bin\x86\Debug\DogeGame 3.0.build.appxrecipe
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\bin\x86\Debug\System.Runtime.dll
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\DogeGame 3.0.csproj.AssemblyReference.cache
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\App.g.i.cs
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\App.g.cs
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\MainPage.g.cs
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\App.xaml
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\MainPage.xaml
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\App.xbf
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\MainPage.xbf
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\DogeGame 3.0.csproj.CoreCompileInputs.cache
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\DogeGame 3.0.csproj.CopyComplete
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\DogeGame 3.0.exe
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\DogeGame 3.0.pdb
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\priconfig.xml
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\resources.resfiles
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\pri.resfiles
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\qualifiers.txt
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\idop9\source\repos\DogeGame 3.0\DogeGame 3.0\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934950560000000.json
